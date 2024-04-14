@@ -74,7 +74,7 @@ Output
   }
 }
 ```
-## 🎯 EDITAR UM USUARIO PELO ID.
+## 🎯 ATUALIZAR UM USUARIO PELO ID.
 
 PUT
 ```URL
