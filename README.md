@@ -109,14 +109,20 @@ DEL
 ```
   
 ```PATH VARIABLES
-  id    f001
+
+id    f001
 
 ```
+
+Output
 ```JSON 
 {
   "message": "user deletado com sucesso"
 }
 ```
+
+
+
 # 📖 Documentação Postman
 https://documenter.getpostman.com/view/24460801/2sA3Bj7Z9N
 
