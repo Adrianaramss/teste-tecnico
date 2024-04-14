@@ -11,7 +11,7 @@ export const db = knex({
         max: 1,
 				afterCreate: (conn: any, cb: any) => {
             conn.run("PRAGMA foreign_keys = ON", cb)
-        } // configurando para o knex forçar o check das constrainst FK
-					// para entender melhor, depois assista o vídeo de refatoração de DELETE users by id
+        } 
+					 
     }
 })
