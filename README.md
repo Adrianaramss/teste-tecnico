@@ -23,7 +23,7 @@ O projeto é um sistema de cadastro de usuários, onde as pessoas podem se inscr
 GET
 
 ```URL
-https://teste-tecnico-4.onrender.com/users
+'https://teste-tecnico-4.onrender.com/users'
 ```
 
 Output
@@ -78,7 +78,7 @@ Output
 
 PUT
 ```URL
-https://teste-tecnico-4.onrender.com/users/:id
+'https://teste-tecnico-4.onrender.com/users/:id'
 ```
   
 ```JSON
