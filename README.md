@@ -108,8 +108,8 @@ DEL
 'https://teste-tecnico-4.onrender.com/users/:id'
 ```
   
-```PATH VARIABLES
-
+PATH VARIABLES
+```
 id    f001
 
 ```
